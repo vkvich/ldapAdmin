@@ -1,0 +1,111 @@
+body {
+	margin: 0 auto;
+	}
+p, a, h1 {
+	font-family: arial;
+	font-size: 10pt;
+}
+p {
+	margin: 0px;
+	padding: 2px;
+}
+a {
+	margin-left: 12px;
+	}
+ul {
+	text-align: center;
+}
+li {
+	text-align: center;
+	float: left;
+	list-style-type: none;
+	margin: 4px;
+}
+.txt {
+	font-family: arial;
+	font-size: 10pt;
+	margin-right: 4px;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border:0px;
+	border-collapse: collapse;
+}
+table td {
+	padding: 0px 6px 0px 6px;
+}
+table tr {
+	border: 1px solid #B2B2B2;
+}
+.noborder {
+	border: 0px;
+}
+input.text {
+	font-size: 10pt;
+	font-family: arial;
+	width: 100%;
+	border: 1px solid #444444;
+}
+input.text:hover {
+	border: 1px solid black;
+}
+.even {
+	background-color: white;
+}
+.odd {
+	background-color: #f1f1f1;
+}
+.nobor {
+	border: 0px;
+}
+.err {
+	text-align: center;
+	color: red;
+}
+.help {
+	font-size: 10pt;
+	color: #ABABAB;
+	text-align: center;
+	}
+.helpok {
+	font-size: 10pt;
+	color: green;
+	text-align: left;
+	}
+.helperr {
+	font-size: 10pt;
+	color: red;
+	text-align: left;
+	}
+.grp {
+	padding-left: 4px;
+	padding-right: 4px;
+	font-size: 10pt;
+	font-family: arial;
+	cursor: pointer;
+}
+.link {
+	padding-left: 4px;
+	padding-right: 4px;
+	font-size: 10pt;
+	font-family: arial;
+	color: #3a7fba;
+	text-decoration: none;
+	cursor: pointer;
+	}
+.link:hover {
+	color: #165082;
+	text-decoration: underline;
+	}
+th {
+	cursor: pointer;
+	}
+	
+#monitor {
+	padding: 6px;
+#	background-color: #E1E1E1;
+	border: 0px solid #D5D5D5;
+	}
+	
+
